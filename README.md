@@ -13,12 +13,6 @@ Boilerplate simples e limpo para criação de APIs REST com Node.js, Express e M
 - **Error Handling**: Tratamento centralizado de erros
 - **Validação**: Middleware para validação de IDs
 
-## Você pode usar esse template:
-
-- Clone o repositorio
-- De o comando: rm -rf .git
-- De o comando: git init
-
 ## 🚀 Começando
 
 ### Pré-requisitos
@@ -28,10 +22,11 @@ Boilerplate simples e limpo para criação de APIs REST com Node.js, Express e M
 
 ### Instalação
 
-1. Clone o repositório:
+1. Clone o repositório e remova o .git:
 ```bash
 git clone <url-do-repositorio>
 cd nodejs-api-boilerplate
+rm -rf .git
 ```
 
 2. Instale as dependências:
