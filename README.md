@@ -13,6 +13,12 @@ Boilerplate simples e limpo para criação de APIs REST com Node.js, Express e M
 - **Error Handling**: Tratamento centralizado de erros
 - **Validação**: Middleware para validação de IDs
 
+## Vocẽ pode usar esse template:
+
+- Clone o repositorio
+- De o comando: rm -rf .git
+- De o comando: git init
+
 ## 🚀 Começando
 
 ### Pré-requisitos
